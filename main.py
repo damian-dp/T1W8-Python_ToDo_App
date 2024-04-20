@@ -2,7 +2,7 @@
 import os.path
 
 # EXTERNAL PACKAGES
-from colored import Fore, Back, Style
+from colored import Fore, Back, Style # type: ignore
 
 
 # IMPORTS LOCAL FUNCTIONS
